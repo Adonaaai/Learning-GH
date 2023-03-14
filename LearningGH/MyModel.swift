@@ -9,6 +9,6 @@ import Foundation
 
 struct MyModel {
     
-    var model:String?
+    var name:String = "Mohammed"
     
 }
